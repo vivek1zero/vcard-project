@@ -4,14 +4,13 @@ import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
-// Replace these with your project's configuration from the Firebase console
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyCgcwoS8i3EN-F1q-l-TYcPcrwvsOEhpMY",
+  authDomain: "vcard-master.firebaseapp.com",
+  projectId: "vcard-master",
+  storageBucket: "vcard-master.firebasestorage.app",
+  messagingSenderId: "121481324649",
+  appId: "1:121481324649:web:2ec10819011cde78775af8"
 };
 
 // Initialize Firebase

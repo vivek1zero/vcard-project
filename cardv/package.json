@@ -15,6 +15,7 @@
     "qrcode.react": "^4.2.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-router-dom": "^7.13.1",
     "transition-style": "^0.1.4"
   },
   "devDependencies": {
